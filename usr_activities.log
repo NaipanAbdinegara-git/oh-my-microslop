@@ -1,0 +1,29 @@
+06/05/26 22:39:00 | Action: User started the program | Success: True
+06/05/26 22:39:07 | Action: User rejected EULA | Success: False
+06/05/26 22:39:10 | Action: User rejected EULA | Success: False
+06/05/26 22:39:39 | Action: User accepted EULA | Success: True
+06/05/26 22:40:06 | Action: User closed the program | Success: False
+06/05/26 22:41:05 | Action: User started the program | Success: True
+06/05/26 22:41:10 | Action: User rejected EULA | Success: False
+06/05/26 22:41:21 | Action: User rejected EULA | Success: False
+06/05/26 22:41:22 | Action: User rejected EULA | Success: False
+06/05/26 22:41:23 | Action: User rejected EULA | Success: False
+06/05/26 22:43:31 | Action: User rejected EULA | Success: False
+06/05/26 22:43:35 | Action: User accepted EULA | Success: True
+06/05/26 22:43:55 | Action: User closed the program | Success: False
+06/05/26 22:44:13 | Action: User started the program | Success: True
+06/05/26 22:44:25 | Action: User accepted EULA | Success: True
+06/05/26 22:44:31 | Action: User closed the program | Success: False
+06/05/26 22:44:55 | Action: User started the program | Success: True
+06/05/26 22:45:10 | Action: User accepted EULA | Success: True
+06/05/26 22:45:38 | Action: User closed the program | Success: False
+06/05/26 22:47:02 | Action: User started the program | Success: True
+06/05/26 22:47:21 | Action: User started the program | Success: True
+06/05/26 22:47:30 | Action: User rejected EULA | Success: False
+06/05/26 22:47:57 | Action: User started the program | Success: True
+06/05/26 22:48:03 | Action: User started the program | Success: True
+06/05/26 22:48:11 | Action: User accepted EULA | Success: True
+06/05/26 22:48:50 | Action: User closed the program | Success: False
+06/05/26 22:48:57 | Action: User started the program | Success: True
+06/05/26 22:49:02 | Action: User accepted EULA | Success: True
+06/05/26 22:49:11 | Action: User closed the program | Success: False
