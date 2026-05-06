@@ -58,6 +58,5 @@ As this is a parody project for learning purposes, contributions to the "harvest
 ---
 
 ## Project status: Harvesting your data...] 
-## [License: All Your Data Are Belong To US] [Just Kidding]
+## [License: All Your Data Are Belong To Us] [Just Kidding]
 
----
