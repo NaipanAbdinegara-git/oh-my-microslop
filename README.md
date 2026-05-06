@@ -32,7 +32,7 @@ This project is created **SOLELY for educational and satirical purposes**.
 ## Setup & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/NaipanAbdinegara-git/oh-my-microslop.git]
+   git clone https://github.com/NaipanAbdinegara-git/oh-my-microslop.git
    ```
 2. Navigate to the project directory:
    ```bash
