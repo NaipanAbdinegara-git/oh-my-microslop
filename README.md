@@ -25,7 +25,7 @@ This project is created **SOLELY for educational and satirical purposes**.
 
 ## Prerequisites
 * Python 3.x
-* Required libraries: `psutil` (install via `pip install psutil`)
+* Required libraries: `platform`, `datetime` (built-in libraries)
 
 ---
 
