@@ -56,4 +56,7 @@ This project is created **SOLELY for educational and satirical purposes**.
 As this is a parody project for learning purposes, contributions to the "harvesting logic" or suggestions for new "security questions" are highly encouraged via Pull Requests.
 
 ---
-[Project status: Harvesting your data...] [License: All Your Data Are Belong To US] [Just Kidding]
+
+## Project status: Harvesting your data...] [License: All Your Data Are Belong To US] [Just Kidding]
+
+---
