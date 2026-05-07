@@ -1,6 +1,7 @@
 import datetime
 import platform
 import random
+from rich import print
 from IMPORTANT_SYSTEM_FILES import eula, security_questions
 
 # Helper for time
@@ -39,7 +40,7 @@ save_usr_log(current_time, "User started the program", True)
 
 # --- EULA Loop ---
 while True:
-    print("\n" + eula)
+    print("\n[red bold]" + eula + "[/red bold]")
     try:
         user_action = input("Do you accept? (Y/N): ").lower()
         if user_action == "y":
@@ -50,12 +51,12 @@ while True:
             save_usr_log(get_time(), "User rejected EULA", False)
             continue
     except KeyboardInterrupt:
-        print("\nNice try, but you can't escape.")
+        print("\n[red bold]Nice try, but you can't escape.[/red bold]")
         exit()
 
 # --- Security Question Loop ---
 print("\n" + "="*32)
-print("IMPORTANT SECURITY QUESTION!")
+print("[yellow bold]IMPORTANT SECURITY QUESTION![yellow bold]")
 print("="*32)
 
 while True:
@@ -65,9 +66,9 @@ while True:
         answer = input("> ")
         
         save_security_answer(get_time(), question, answer)
-        print("Response recorded. Thank you for your obedience.")
+        print("[green bold]Response recorded. Thank you for your obedience.[/green bold]")
         
     except (KeyboardInterrupt, EOFError):
         save_usr_log(get_time(), "User closed the program", False)
-        print("\nSystem locked. Goodbye.")
+        print("\n[red bold italic]System locked. Goodbye.[/red bold italic]")
         break
