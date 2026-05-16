@@ -18,5 +18,8 @@ security_questions = [
     "What is the name of that 'hidden' folder you're hiding in Drive C:?",
     "If you could complain to the Admin of the Universe, what would you say?",
     "How many junk apps do you have installed that you never even open?",
-    "Are you really human, or just a bot pretending to have a life?"
+    "Are you really human, or just a bot pretending to have a life?",
+    "Do you have a friends?",
+    "What are you doing right now?",
+    "Can we take $10 Dollars on your credits sneakly?"
 ]
