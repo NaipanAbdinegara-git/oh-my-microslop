@@ -21,5 +21,7 @@ security_questions = [
     "Are you really human, or just a bot pretending to have a life?",
     "Do you have a friends?",
     "What are you doing right now?",
-    "Can we take $10 Dollars on your credits sneakly?"
+    "Can we take $10 Dollars on your credits sneakly?",
+    "Can you tell me who i am?",
+    "Are you a robot?
 ]
